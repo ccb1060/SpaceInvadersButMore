@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SpaceInvadersButMore",
+			"Path": "..\\Source\\SpaceInvadersButMore.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SpaceInvadersButMoreEditor",
+			"Path": "..\\Source\\SpaceInvadersButMoreEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

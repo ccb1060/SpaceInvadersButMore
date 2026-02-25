@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\caspa\\source\\repos\\spaceinvadersbutmore\\spaceinvadersbutmore\\source\\spaceinvadersbutmore\\spaceinvadersbutmoregamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\caspa\\source\\repos\\spaceinvadersbutmore\\spaceinvadersbutmore\\intermediate\\build\\win64\\x64\\spaceinvadersbutmoreeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\caspa\\source\\repos\\spaceinvadersbutmore\\spaceinvadersbutmore\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\spaceinvadersbutmore\\definitions.spaceinvadersbutmore.h",
+            "c:\\users\\caspa\\source\\repos\\spaceinvadersbutmore\\spaceinvadersbutmore\\source\\spaceinvadersbutmore\\spaceinvadersbutmoregamemode.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\caspa\\source\\repos\\spaceinvadersbutmore\\spaceinvadersbutmore\\intermediate\\build\\win64\\unrealeditor\\inc\\spaceinvadersbutmore\\uht\\spaceinvadersbutmoregamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

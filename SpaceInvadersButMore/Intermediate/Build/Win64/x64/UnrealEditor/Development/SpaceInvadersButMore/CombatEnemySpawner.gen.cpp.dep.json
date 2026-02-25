@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\caspa\\source\\repos\\spaceinvadersbutmore\\spaceinvadersbutmore\\intermediate\\build\\win64\\unrealeditor\\inc\\spaceinvadersbutmore\\uht\\combatenemyspawner.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\caspa\\source\\repos\\spaceinvadersbutmore\\spaceinvadersbutmore\\intermediate\\build\\win64\\x64\\spaceinvadersbutmoreeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\caspa\\source\\repos\\spaceinvadersbutmore\\spaceinvadersbutmore\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\spaceinvadersbutmore\\definitions.spaceinvadersbutmore.h",
+            "c:\\users\\caspa\\source\\repos\\spaceinvadersbutmore\\spaceinvadersbutmore\\source\\spaceinvadersbutmore\\variant_combat\\ai\\combatenemyspawner.h",
+            "c:\\users\\caspa\\source\\repos\\spaceinvadersbutmore\\spaceinvadersbutmore\\source\\spaceinvadersbutmore\\variant_combat\\combatactivatable.h",
+            "c:\\users\\caspa\\source\\repos\\spaceinvadersbutmore\\spaceinvadersbutmore\\intermediate\\build\\win64\\unrealeditor\\inc\\spaceinvadersbutmore\\uht\\combatactivatable.generated.h",
+            "c:\\users\\caspa\\source\\repos\\spaceinvadersbutmore\\spaceinvadersbutmore\\intermediate\\build\\win64\\unrealeditor\\inc\\spaceinvadersbutmore\\uht\\combatenemyspawner.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

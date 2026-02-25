@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\caspa\\source\\repos\\spaceinvadersbutmore\\spaceinvadersbutmore\\source\\spaceinvadersbutmore\\variant_combat\\combatattacker.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\caspa\\source\\repos\\spaceinvadersbutmore\\spaceinvadersbutmore\\intermediate\\build\\win64\\x64\\spaceinvadersbutmoreeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\caspa\\source\\repos\\spaceinvadersbutmore\\spaceinvadersbutmore\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\spaceinvadersbutmore\\definitions.spaceinvadersbutmore.h",
+            "c:\\users\\caspa\\source\\repos\\spaceinvadersbutmore\\spaceinvadersbutmore\\source\\spaceinvadersbutmore\\variant_combat\\combatattacker.h",
+            "c:\\users\\caspa\\source\\repos\\spaceinvadersbutmore\\spaceinvadersbutmore\\intermediate\\build\\win64\\unrealeditor\\inc\\spaceinvadersbutmore\\uht\\combatattacker.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

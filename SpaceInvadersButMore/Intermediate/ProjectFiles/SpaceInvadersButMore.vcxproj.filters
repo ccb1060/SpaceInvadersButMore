@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SpaceInvadersButMore.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SpaceInvadersButMore.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SpaceInvadersButMoreEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SpaceInvadersButMore">
+      <UniqueIdentifier>{790B46AC-041D-3182-A9DA-D76069D9E8B6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SpaceInvadersButMore\SpaceInvadersButMore.Build.cs">
+      <Filter>Source\SpaceInvadersButMore</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\SpaceInvadersButMore.cpp">
+      <Filter>Source\SpaceInvadersButMore</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\SpaceInvadersButMore.h">
+      <Filter>Source\SpaceInvadersButMore</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\SpaceInvadersButMoreCharacter.cpp">
+      <Filter>Source\SpaceInvadersButMore</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\SpaceInvadersButMoreCharacter.h">
+      <Filter>Source\SpaceInvadersButMore</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\SpaceInvadersButMoreGameMode.cpp">
+      <Filter>Source\SpaceInvadersButMore</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\SpaceInvadersButMoreGameMode.h">
+      <Filter>Source\SpaceInvadersButMore</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\SpaceInvadersButMorePlayerController.cpp">
+      <Filter>Source\SpaceInvadersButMore</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\SpaceInvadersButMorePlayerController.h">
+      <Filter>Source\SpaceInvadersButMore</Filter>
+    </ClInclude>
+    <Filter Include="Source\SpaceInvadersButMore\Variant_Combat">
+      <UniqueIdentifier>{6828628A-F6CC-35DB-8F51-02D054F3CF4E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\AnimNotify_CheckChargedAttack.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\AnimNotify_CheckChargedAttack.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\AnimNotify_CheckCombo.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\AnimNotify_CheckCombo.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\AnimNotify_DoAttackTrace.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\AnimNotify_DoAttackTrace.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\CombatActivatable.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\CombatActivatable.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\CombatActivationVolume.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\CombatActivationVolume.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\CombatAttacker.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\CombatAttacker.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\CombatCharacter.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\CombatCharacter.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\CombatCheckpointVolume.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\CombatCheckpointVolume.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\CombatDamageable.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\CombatDamageable.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\CombatDamageableBox.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\CombatDamageableBox.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\CombatDummy.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\CombatDummy.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\CombatGameMode.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\CombatGameMode.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\CombatLavaFloor.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\CombatLavaFloor.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\CombatLifeBar.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\CombatLifeBar.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\CombatPlayerController.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\CombatPlayerController.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat</Filter>
+    </ClInclude>
+    <Filter Include="Source\SpaceInvadersButMore\Variant_Combat\AI">
+      <UniqueIdentifier>{EEECC2FB-F777-31F5-8A80-2EC88B78C7D0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\AI\CombatAIController.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\AI\CombatAIController.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\AI\CombatEnemy.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\AI\CombatEnemy.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\AI\CombatEnemySpawner.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\AI\CombatEnemySpawner.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\AI\CombatStateTreeUtility.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\AI\CombatStateTreeUtility.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\AI\EnvQueryContext_Player.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_Combat\AI\EnvQueryContext_Player.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\SpaceInvadersButMore\Variant_Platforming">
+      <UniqueIdentifier>{F40EFA59-BD83-379A-A63A-026A04953D08}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_Platforming\AnimNotify_EndDash.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_Platforming\AnimNotify_EndDash.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_Platforming\PlatformingCharacter.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_Platforming\PlatformingCharacter.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_Platforming\PlatformingGameMode.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_Platforming\PlatformingGameMode.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_Platforming\PlatformingPlayerController.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_Platforming\PlatformingPlayerController.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_Platforming</Filter>
+    </ClInclude>
+    <Filter Include="Source\SpaceInvadersButMore\Variant_SideScrolling">
+      <UniqueIdentifier>{B4F82BC6-1353-35A8-AA79-F28DE6675D25}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_SideScrolling\SideScrollingCameraManager.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_SideScrolling\SideScrollingCameraManager.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_SideScrolling\SideScrollingCharacter.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_SideScrolling\SideScrollingCharacter.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\SpaceInvadersButMore\Variant_SideScrolling\SideScrollingCPP.Build.cs">
+      <Filter>Source\SpaceInvadersButMore\Variant_SideScrolling</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_SideScrolling\SideScrollingGameMode.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_SideScrolling\SideScrollingGameMode.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_SideScrolling\SideScrollingInteractable.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_SideScrolling\SideScrollingInteractable.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_SideScrolling\SideScrollingPlayerController.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_SideScrolling\SideScrollingPlayerController.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_SideScrolling\SideScrollingUI.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_SideScrolling\SideScrollingUI.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <Filter Include="Source\SpaceInvadersButMore\Variant_SideScrolling\AI">
+      <UniqueIdentifier>{F5A88564-43D1-33C8-B489-A05F69E57F58}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_SideScrolling\AI\SideScrollingAIController.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_SideScrolling\AI\SideScrollingAIController.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_SideScrolling\AI\SideScrollingNPC.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_SideScrolling\AI\SideScrollingNPC.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\SpaceInvadersButMore\Variant_SideScrolling\Gameplay">
+      <UniqueIdentifier>{33151F5D-E904-3F8F-A6CC-CEDEB0D7DDC9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_SideScrolling\Gameplay\SideScrollingPickup.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_SideScrolling\Gameplay\SideScrollingPickup.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SpaceInvadersButMore\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.cpp">
+      <Filter>Source\SpaceInvadersButMore\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SpaceInvadersButMore\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.h">
+      <Filter>Source\SpaceInvadersButMore\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
