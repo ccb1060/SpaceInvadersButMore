@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "SpaceInvadersButMore/Variant_Combat/CombatDamageableBox.h"
+#include "CombatDamageableBox.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
@@ -256,14 +256,14 @@ ACombatDamageableBox::~ACombatDamageableBox() {}
 // ********** End Class ACombatDamageableBox *******************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_caspa_source_repos_SpaceInvadersButMore_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_Combat_CombatDamageableBox_h__Script_SpaceInvadersButMore_Statics
+struct Z_CompiledInDeferFile_FID_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_Combat_CombatDamageableBox_h__Script_SpaceInvadersButMore_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ACombatDamageableBox, ACombatDamageableBox::StaticClass, TEXT("ACombatDamageableBox"), &Z_Registration_Info_UClass_ACombatDamageableBox, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ACombatDamageableBox), 3651504361U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_caspa_source_repos_SpaceInvadersButMore_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_Combat_CombatDamageableBox_h__Script_SpaceInvadersButMore_714717087(TEXT("/Script/SpaceInvadersButMore"),
-	Z_CompiledInDeferFile_FID_Users_caspa_source_repos_SpaceInvadersButMore_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_Combat_CombatDamageableBox_h__Script_SpaceInvadersButMore_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_caspa_source_repos_SpaceInvadersButMore_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_Combat_CombatDamageableBox_h__Script_SpaceInvadersButMore_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_Combat_CombatDamageableBox_h__Script_SpaceInvadersButMore_714717087(TEXT("/Script/SpaceInvadersButMore"),
+	Z_CompiledInDeferFile_FID_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_Combat_CombatDamageableBox_h__Script_SpaceInvadersButMore_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_Combat_CombatDamageableBox_h__Script_SpaceInvadersButMore_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

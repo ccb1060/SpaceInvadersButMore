@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "SpaceInvadersButMore/Variant_SideScrolling/SideScrollingPlayerController.h"
+#include "SideScrollingPlayerController.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
@@ -200,14 +200,14 @@ ASideScrollingPlayerController::~ASideScrollingPlayerController() {}
 // ********** End Class ASideScrollingPlayerController *********************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_caspa_source_repos_SpaceInvadersButMore_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_SideScrolling_SideScrollingPlayerController_h__Script_SpaceInvadersButMore_Statics
+struct Z_CompiledInDeferFile_FID_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_SideScrolling_SideScrollingPlayerController_h__Script_SpaceInvadersButMore_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ASideScrollingPlayerController, ASideScrollingPlayerController::StaticClass, TEXT("ASideScrollingPlayerController"), &Z_Registration_Info_UClass_ASideScrollingPlayerController, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ASideScrollingPlayerController), 2066030866U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_caspa_source_repos_SpaceInvadersButMore_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_SideScrolling_SideScrollingPlayerController_h__Script_SpaceInvadersButMore_2917112682(TEXT("/Script/SpaceInvadersButMore"),
-	Z_CompiledInDeferFile_FID_Users_caspa_source_repos_SpaceInvadersButMore_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_SideScrolling_SideScrollingPlayerController_h__Script_SpaceInvadersButMore_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_caspa_source_repos_SpaceInvadersButMore_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_SideScrolling_SideScrollingPlayerController_h__Script_SpaceInvadersButMore_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_SideScrolling_SideScrollingPlayerController_h__Script_SpaceInvadersButMore_2917112682(TEXT("/Script/SpaceInvadersButMore"),
+	Z_CompiledInDeferFile_FID_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_SideScrolling_SideScrollingPlayerController_h__Script_SpaceInvadersButMore_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_SideScrolling_SideScrollingPlayerController_h__Script_SpaceInvadersButMore_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

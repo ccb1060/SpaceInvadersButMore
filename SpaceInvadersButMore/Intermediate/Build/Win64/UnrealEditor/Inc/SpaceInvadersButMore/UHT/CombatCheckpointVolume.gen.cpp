@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "SpaceInvadersButMore/Variant_Combat/CombatCheckpointVolume.h"
+#include "CombatCheckpointVolume.h"
 #include "Engine/HitResult.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
@@ -218,14 +218,14 @@ ACombatCheckpointVolume::~ACombatCheckpointVolume() {}
 // ********** End Class ACombatCheckpointVolume ****************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_caspa_source_repos_SpaceInvadersButMore_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_Combat_CombatCheckpointVolume_h__Script_SpaceInvadersButMore_Statics
+struct Z_CompiledInDeferFile_FID_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_Combat_CombatCheckpointVolume_h__Script_SpaceInvadersButMore_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ACombatCheckpointVolume, ACombatCheckpointVolume::StaticClass, TEXT("ACombatCheckpointVolume"), &Z_Registration_Info_UClass_ACombatCheckpointVolume, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ACombatCheckpointVolume), 565885219U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_caspa_source_repos_SpaceInvadersButMore_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_Combat_CombatCheckpointVolume_h__Script_SpaceInvadersButMore_3802067359(TEXT("/Script/SpaceInvadersButMore"),
-	Z_CompiledInDeferFile_FID_Users_caspa_source_repos_SpaceInvadersButMore_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_Combat_CombatCheckpointVolume_h__Script_SpaceInvadersButMore_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_caspa_source_repos_SpaceInvadersButMore_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_Combat_CombatCheckpointVolume_h__Script_SpaceInvadersButMore_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_Combat_CombatCheckpointVolume_h__Script_SpaceInvadersButMore_3802067359(TEXT("/Script/SpaceInvadersButMore"),
+	Z_CompiledInDeferFile_FID_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_Combat_CombatCheckpointVolume_h__Script_SpaceInvadersButMore_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_Combat_CombatCheckpointVolume_h__Script_SpaceInvadersButMore_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

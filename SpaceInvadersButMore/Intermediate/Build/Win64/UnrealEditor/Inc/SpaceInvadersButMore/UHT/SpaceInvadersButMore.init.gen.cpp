@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeSpaceInvadersButMore_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0xD038239C,
+				0x0787F6B0,
 				0x109BD57A,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -29,5 +29,5 @@ void EmptyLinkFunctionForGeneratedCodeSpaceInvadersButMore_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_SpaceInvadersButMore.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_SpaceInvadersButMore(Z_Construct_UPackage__Script_SpaceInvadersButMore, TEXT("/Script/SpaceInvadersButMore"), Z_Registration_Info_UPackage__Script_SpaceInvadersButMore, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xD038239C, 0x109BD57A));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_SpaceInvadersButMore(Z_Construct_UPackage__Script_SpaceInvadersButMore, TEXT("/Script/SpaceInvadersButMore"), Z_Registration_Info_UPackage__Script_SpaceInvadersButMore, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x0787F6B0, 0x109BD57A));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

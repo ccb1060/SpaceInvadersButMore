@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "SpaceInvadersButMore/Variant_Combat/AnimNotify_DoAttackTrace.h"
+#include "AnimNotify_DoAttackTrace.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
@@ -123,14 +123,14 @@ UAnimNotify_DoAttackTrace::~UAnimNotify_DoAttackTrace() {}
 // ********** End Class UAnimNotify_DoAttackTrace **************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_caspa_source_repos_SpaceInvadersButMore_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_Combat_AnimNotify_DoAttackTrace_h__Script_SpaceInvadersButMore_Statics
+struct Z_CompiledInDeferFile_FID_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_Combat_AnimNotify_DoAttackTrace_h__Script_SpaceInvadersButMore_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UAnimNotify_DoAttackTrace, UAnimNotify_DoAttackTrace::StaticClass, TEXT("UAnimNotify_DoAttackTrace"), &Z_Registration_Info_UClass_UAnimNotify_DoAttackTrace, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAnimNotify_DoAttackTrace), 2188505280U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_caspa_source_repos_SpaceInvadersButMore_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_Combat_AnimNotify_DoAttackTrace_h__Script_SpaceInvadersButMore_1952205074(TEXT("/Script/SpaceInvadersButMore"),
-	Z_CompiledInDeferFile_FID_Users_caspa_source_repos_SpaceInvadersButMore_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_Combat_AnimNotify_DoAttackTrace_h__Script_SpaceInvadersButMore_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_caspa_source_repos_SpaceInvadersButMore_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_Combat_AnimNotify_DoAttackTrace_h__Script_SpaceInvadersButMore_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_Combat_AnimNotify_DoAttackTrace_h__Script_SpaceInvadersButMore_1952205074(TEXT("/Script/SpaceInvadersButMore"),
+	Z_CompiledInDeferFile_FID_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_Combat_AnimNotify_DoAttackTrace_h__Script_SpaceInvadersButMore_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_SpaceInvadersButMore_Source_SpaceInvadersButMore_Variant_Combat_AnimNotify_DoAttackTrace_h__Script_SpaceInvadersButMore_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

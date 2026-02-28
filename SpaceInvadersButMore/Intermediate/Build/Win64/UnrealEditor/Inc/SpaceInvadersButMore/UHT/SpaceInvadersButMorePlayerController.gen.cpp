@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "SpaceInvadersButMore/SpaceInvadersButMorePlayerController.h"
+#include "SpaceInvadersButMorePlayerController.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
@@ -128,14 +128,14 @@ ASpaceInvadersButMorePlayerController::~ASpaceInvadersButMorePlayerController() 
 // ********** End Class ASpaceInvadersButMorePlayerController **************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_caspa_source_repos_SpaceInvadersButMore_SpaceInvadersButMore_Source_SpaceInvadersButMore_SpaceInvadersButMorePlayerController_h__Script_SpaceInvadersButMore_Statics
+struct Z_CompiledInDeferFile_FID_SpaceInvadersButMore_Source_SpaceInvadersButMore_SpaceInvadersButMorePlayerController_h__Script_SpaceInvadersButMore_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ASpaceInvadersButMorePlayerController, ASpaceInvadersButMorePlayerController::StaticClass, TEXT("ASpaceInvadersButMorePlayerController"), &Z_Registration_Info_UClass_ASpaceInvadersButMorePlayerController, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ASpaceInvadersButMorePlayerController), 300825884U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_caspa_source_repos_SpaceInvadersButMore_SpaceInvadersButMore_Source_SpaceInvadersButMore_SpaceInvadersButMorePlayerController_h__Script_SpaceInvadersButMore_2570345235(TEXT("/Script/SpaceInvadersButMore"),
-	Z_CompiledInDeferFile_FID_Users_caspa_source_repos_SpaceInvadersButMore_SpaceInvadersButMore_Source_SpaceInvadersButMore_SpaceInvadersButMorePlayerController_h__Script_SpaceInvadersButMore_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_caspa_source_repos_SpaceInvadersButMore_SpaceInvadersButMore_Source_SpaceInvadersButMore_SpaceInvadersButMorePlayerController_h__Script_SpaceInvadersButMore_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_SpaceInvadersButMore_Source_SpaceInvadersButMore_SpaceInvadersButMorePlayerController_h__Script_SpaceInvadersButMore_2570345235(TEXT("/Script/SpaceInvadersButMore"),
+	Z_CompiledInDeferFile_FID_SpaceInvadersButMore_Source_SpaceInvadersButMore_SpaceInvadersButMorePlayerController_h__Script_SpaceInvadersButMore_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_SpaceInvadersButMore_Source_SpaceInvadersButMore_SpaceInvadersButMorePlayerController_h__Script_SpaceInvadersButMore_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************
