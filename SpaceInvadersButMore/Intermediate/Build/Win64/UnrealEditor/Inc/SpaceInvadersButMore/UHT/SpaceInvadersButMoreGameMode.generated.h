@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class ASpaceInvadersButMoreGameMode ********************************************
 SPACEINVADERSBUTMORE_API UClass* Z_Construct_UClass_ASpaceInvadersButMoreGameMode_NoRegister();
 
-#define FID_Users_caspa_source_repos_SpaceInvadersButMore_SpaceInvadersButMore_Source_SpaceInvadersButMore_SpaceInvadersButMoreGameMode_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_SpaceInvadersButMore_Source_SpaceInvadersButMore_SpaceInvadersButMoreGameMode_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesASpaceInvadersButMoreGameMode(); \
 	friend struct Z_Construct_UClass_ASpaceInvadersButMoreGameMode_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(ASpaceInvadersButMoreGameMode)
 
 
-#define FID_Users_caspa_source_repos_SpaceInvadersButMore_SpaceInvadersButMore_Source_SpaceInvadersButMore_SpaceInvadersButMoreGameMode_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_SpaceInvadersButMore_Source_SpaceInvadersButMore_SpaceInvadersButMoreGameMode_h_15_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	ASpaceInvadersButMoreGameMode(ASpaceInvadersButMoreGameMode&&) = delete; \
 	ASpaceInvadersButMoreGameMode(const ASpaceInvadersButMoreGameMode&) = delete; \
@@ -40,12 +40,12 @@ public: \
 	NO_API virtual ~ASpaceInvadersButMoreGameMode();
 
 
-#define FID_Users_caspa_source_repos_SpaceInvadersButMore_SpaceInvadersButMore_Source_SpaceInvadersButMore_SpaceInvadersButMoreGameMode_h_12_PROLOG
-#define FID_Users_caspa_source_repos_SpaceInvadersButMore_SpaceInvadersButMore_Source_SpaceInvadersButMore_SpaceInvadersButMoreGameMode_h_15_GENERATED_BODY \
+#define FID_SpaceInvadersButMore_Source_SpaceInvadersButMore_SpaceInvadersButMoreGameMode_h_12_PROLOG
+#define FID_SpaceInvadersButMore_Source_SpaceInvadersButMore_SpaceInvadersButMoreGameMode_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_caspa_source_repos_SpaceInvadersButMore_SpaceInvadersButMore_Source_SpaceInvadersButMore_SpaceInvadersButMoreGameMode_h_15_INCLASS_NO_PURE_DECLS \
-	FID_Users_caspa_source_repos_SpaceInvadersButMore_SpaceInvadersButMore_Source_SpaceInvadersButMore_SpaceInvadersButMoreGameMode_h_15_ENHANCED_CONSTRUCTORS \
+	FID_SpaceInvadersButMore_Source_SpaceInvadersButMore_SpaceInvadersButMoreGameMode_h_15_INCLASS_NO_PURE_DECLS \
+	FID_SpaceInvadersButMore_Source_SpaceInvadersButMore_SpaceInvadersButMoreGameMode_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -55,6 +55,6 @@ class ASpaceInvadersButMoreGameMode;
 // ********** End Class ASpaceInvadersButMoreGameMode **********************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_caspa_source_repos_SpaceInvadersButMore_SpaceInvadersButMore_Source_SpaceInvadersButMore_SpaceInvadersButMoreGameMode_h
+#define CURRENT_FILE_ID FID_SpaceInvadersButMore_Source_SpaceInvadersButMore_SpaceInvadersButMoreGameMode_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
