@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Profiles/mxf9125/Documents/GitHub/SpaceInvadersButMore/SpaceInvadersButMore/Content/_Main/Blueprints/GameModes/GM_SpaceInvaders.uasset",
+				"D:/Profiles/mxf9125/Documents/GitHub/SpaceInvadersButMore/SpaceInvadersButMore/Content/_Main/Blueprints/Player/BP_Player.uasset",
+				"D:/Profiles/mxf9125/Documents/GitHub/SpaceInvadersButMore/SpaceInvadersButMore/Content/_Main/Maps/M_GameLevel.umap",
+				"D:/Profiles/mxf9125/Documents/GitHub/SpaceInvadersButMore/SpaceInvadersButMore/Content/_Main/Widgets/WBP_PauseMenu.uasset",
 				"C:/Users/matth/OneDrive/Documents/GitHub/SpaceInvadersButMore/SpaceInvadersButMore/Content/_Main/Assets/Materials/black.uasset",
 				"C:/Users/matth/OneDrive/Documents/GitHub/SpaceInvadersButMore/SpaceInvadersButMore/Content/_Main/Assets/Materials/blue.uasset",
 				"C:/Users/matth/OneDrive/Documents/GitHub/SpaceInvadersButMore/SpaceInvadersButMore/Content/_Main/Assets/Materials/green.uasset",

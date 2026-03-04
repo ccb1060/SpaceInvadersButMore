@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "AnimNotify_CheckChargedAttack.h"
+#include "SpaceInvadersButMore/Variant_Combat/AnimNotify_CheckChargedAttack.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 

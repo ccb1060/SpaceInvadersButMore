@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "CombatStateTreeUtility.h"
+#include "SpaceInvadersButMore/Variant_Combat/AI/CombatStateTreeUtility.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
