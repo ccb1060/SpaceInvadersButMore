@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "PlatformingCharacter.h"
+#include "SpaceInvadersButMore/Variant_Platforming/PlatformingCharacter.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 

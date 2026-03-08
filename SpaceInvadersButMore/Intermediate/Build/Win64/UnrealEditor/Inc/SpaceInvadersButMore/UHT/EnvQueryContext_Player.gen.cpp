@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "EnvQueryContext_Player.h"
+#include "SpaceInvadersButMore/Variant_Combat/AI/EnvQueryContext_Player.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 

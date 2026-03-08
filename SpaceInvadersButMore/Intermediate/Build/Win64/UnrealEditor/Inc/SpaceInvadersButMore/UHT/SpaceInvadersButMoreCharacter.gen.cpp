@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "SpaceInvadersButMoreCharacter.h"
+#include "SpaceInvadersButMore/SpaceInvadersButMoreCharacter.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 

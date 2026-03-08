@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "SideScrollingMovingPlatform.h"
+#include "SpaceInvadersButMore/Variant_SideScrolling/Gameplay/SideScrollingMovingPlatform.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
