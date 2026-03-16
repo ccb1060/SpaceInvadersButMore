@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpaceInvadersButMoreModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d4123b2440c39489c6d92b6da4d29f88f697d89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8267e7ba7de4a34c5ec6697fd31b1f789885189f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpaceInvadersButMoreModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpaceInvadersButMoreModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

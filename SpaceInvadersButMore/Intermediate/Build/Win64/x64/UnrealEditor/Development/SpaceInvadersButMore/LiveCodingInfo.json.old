@@ -49,7 +49,6 @@
 			"SpaceInvadersButMore.cpp.obj",
 			"SpaceInvadersButMoreCharacter.cpp.obj",
 			"SpaceInvadersButMoreGameMode.cpp.obj",
-			"SpaceInvadersButMorePlayerController.cpp.obj",
 			"CombatAIController.cpp.obj",
 			"CombatEnemy.cpp.obj",
 			"CombatEnemySpawner.cpp.obj",
@@ -82,7 +81,8 @@
 			"SideScrollingPickup.cpp.obj",
 			"SideScrollingSoftPlatform.cpp.obj",
 			"SideScrollingCameraManager.cpp.obj",
-			"SideScrollingCharacter.cpp.obj"
+			"SideScrollingCharacter.cpp.obj",
+			"SpaceInvadersButMorePlayerController.cpp.obj"
 		],
 		"Module.SpaceInvadersButMore.3.cpp.obj": [
 			"SideScrollingGameMode.cpp.obj",

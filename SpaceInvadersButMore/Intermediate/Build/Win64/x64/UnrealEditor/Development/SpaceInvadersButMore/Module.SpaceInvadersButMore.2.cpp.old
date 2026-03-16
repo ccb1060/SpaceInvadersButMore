@@ -24,7 +24,6 @@
 #include "C:/Users/matth/OneDrive/Documents/GitHub/SpaceInvadersButMore/SpaceInvadersButMore/Source/SpaceInvadersButMore/SpaceInvadersButMore.cpp"
 #include "C:/Users/matth/OneDrive/Documents/GitHub/SpaceInvadersButMore/SpaceInvadersButMore/Source/SpaceInvadersButMore/SpaceInvadersButMoreCharacter.cpp"
 #include "C:/Users/matth/OneDrive/Documents/GitHub/SpaceInvadersButMore/SpaceInvadersButMore/Source/SpaceInvadersButMore/SpaceInvadersButMoreGameMode.cpp"
-#include "C:/Users/matth/OneDrive/Documents/GitHub/SpaceInvadersButMore/SpaceInvadersButMore/Source/SpaceInvadersButMore/SpaceInvadersButMorePlayerController.cpp"
 #include "C:/Users/matth/OneDrive/Documents/GitHub/SpaceInvadersButMore/SpaceInvadersButMore/Source/SpaceInvadersButMore/Variant_Combat/AI/CombatAIController.cpp"
 #include "C:/Users/matth/OneDrive/Documents/GitHub/SpaceInvadersButMore/SpaceInvadersButMore/Source/SpaceInvadersButMore/Variant_Combat/AI/CombatEnemy.cpp"
 #include "C:/Users/matth/OneDrive/Documents/GitHub/SpaceInvadersButMore/SpaceInvadersButMore/Source/SpaceInvadersButMore/Variant_Combat/AI/CombatEnemySpawner.cpp"

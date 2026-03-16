@@ -2,6 +2,7 @@
 	"RemapUnityFiles": 
 	{
 		"Module.SpaceInvadersButMore.1.cpp.obj": [
+			"SpaceInvadersButMore.init.gen.cpp.obj",
 			"AnimNotify_CheckChargedAttack.gen.cpp.obj",
 			"AnimNotify_CheckCombo.gen.cpp.obj",
 			"AnimNotify_DoAttackTrace.gen.cpp.obj",
@@ -21,9 +22,7 @@
 			"CombatLavaFloor.gen.cpp.obj",
 			"CombatLifeBar.gen.cpp.obj",
 			"CombatPlayerController.gen.cpp.obj",
-			"CombatStateTreeUtility.gen.cpp.obj"
-		],
-		"Module.SpaceInvadersButMore.2.cpp.obj": [
+			"CombatStateTreeUtility.gen.cpp.obj",
 			"EnvQueryContext_Player.gen.cpp.obj",
 			"PlatformingCharacter.gen.cpp.obj",
 			"PlatformingGameMode.gen.cpp.obj",
@@ -40,16 +39,13 @@
 			"SideScrollingPlayerController.gen.cpp.obj",
 			"SideScrollingSoftPlatform.gen.cpp.obj",
 			"SideScrollingStateTreeUtility.gen.cpp.obj",
-			"SideScrollingUI.gen.cpp.obj",
-			"SpaceInvadersButMore.init.gen.cpp.obj",
-			"SpaceInvadersButMoreCharacter.gen.cpp.obj",
-			"SpaceInvadersButMoreGameMode.gen.cpp.obj",
-			"SpaceInvadersButMorePlayerController.gen.cpp.obj",
+			"SideScrollingUI.gen.cpp.obj"
+		],
+		"Module.SpaceInvadersButMore.2.cpp.obj": [
 			"PerModuleInline.gen.cpp.obj",
 			"SpaceInvadersButMore.cpp.obj",
 			"SpaceInvadersButMoreCharacter.cpp.obj",
 			"SpaceInvadersButMoreGameMode.cpp.obj",
-			"SpaceInvadersButMorePlayerController.cpp.obj",
 			"CombatAIController.cpp.obj",
 			"CombatEnemy.cpp.obj",
 			"CombatEnemySpawner.cpp.obj",
@@ -81,14 +77,16 @@
 			"SideScrollingMovingPlatform.cpp.obj",
 			"SideScrollingPickup.cpp.obj",
 			"SideScrollingSoftPlatform.cpp.obj",
-			"SideScrollingCameraManager.cpp.obj"
-		],
-		"Module.SpaceInvadersButMore.3.cpp.obj": [
+			"SideScrollingCameraManager.cpp.obj",
 			"SideScrollingCharacter.cpp.obj",
 			"SideScrollingGameMode.cpp.obj",
 			"SideScrollingInteractable.cpp.obj",
 			"SideScrollingPlayerController.cpp.obj",
-			"SideScrollingUI.cpp.obj"
+			"SideScrollingUI.cpp.obj",
+			"SpaceInvadersButMoreCharacter.gen.cpp.obj",
+			"SpaceInvadersButMoreGameMode.gen.cpp.obj",
+			"SpaceInvadersButMorePlayerController.gen.cpp.obj",
+			"SpaceInvadersButMorePlayerController.cpp.obj"
 		]
 	}
 }
