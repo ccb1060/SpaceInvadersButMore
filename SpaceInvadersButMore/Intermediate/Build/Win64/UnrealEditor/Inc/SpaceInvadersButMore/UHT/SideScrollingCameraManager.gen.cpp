@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "SideScrollingCameraManager.h"
+#include "SpaceInvadersButMore/Variant_SideScrolling/SideScrollingCameraManager.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 

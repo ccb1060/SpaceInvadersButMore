@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "AnimNotify_CheckCombo.h"
+#include "SpaceInvadersButMore/Variant_Combat/AnimNotify_CheckCombo.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
