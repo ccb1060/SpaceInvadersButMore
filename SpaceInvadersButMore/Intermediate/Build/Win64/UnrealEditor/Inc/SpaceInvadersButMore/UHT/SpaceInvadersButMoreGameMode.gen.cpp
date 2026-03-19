@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "SpaceInvadersButMoreGameMode.h"
+#include "SpaceInvadersButMore/SpaceInvadersButMoreGameMode.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
