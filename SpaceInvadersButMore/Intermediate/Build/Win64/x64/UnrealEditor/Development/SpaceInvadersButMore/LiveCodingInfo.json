@@ -81,10 +81,10 @@
 			"SideScrollingMovingPlatform.cpp.obj",
 			"SideScrollingPickup.cpp.obj",
 			"SideScrollingSoftPlatform.cpp.obj",
-			"SideScrollingCameraManager.cpp.obj",
-			"SideScrollingCharacter.cpp.obj"
+			"SideScrollingCameraManager.cpp.obj"
 		],
 		"Module.SpaceInvadersButMore.3.cpp.obj": [
+			"SideScrollingCharacter.cpp.obj",
 			"SideScrollingGameMode.cpp.obj",
 			"SideScrollingInteractable.cpp.obj",
 			"SideScrollingPlayerController.cpp.obj",
