@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/caspa/source/repos/SpaceInvadersButMore/SpaceInvadersButMore/Content/_Main/Blueprints/Projectile/BP_AlienProjectile.uasset",
 				"D:/Profiles/mxf9125/Documents/GitHub/SpaceInvadersButMore/SpaceInvadersButMore/Content/_Main/Blueprints/GameModes/GM_SpaceInvaders.uasset",
 				"D:/Profiles/mxf9125/Documents/GitHub/SpaceInvadersButMore/SpaceInvadersButMore/Content/_Main/Blueprints/Player/BP_Player.uasset",
 				"D:/Profiles/mxf9125/Documents/GitHub/SpaceInvadersButMore/SpaceInvadersButMore/Content/_Main/Maps/M_GameLevel.umap",
