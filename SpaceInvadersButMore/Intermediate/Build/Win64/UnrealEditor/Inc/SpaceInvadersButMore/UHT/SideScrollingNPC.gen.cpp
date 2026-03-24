@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "SpaceInvadersButMore/Variant_SideScrolling/AI/SideScrollingNPC.h"
+#include "SideScrollingNPC.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
