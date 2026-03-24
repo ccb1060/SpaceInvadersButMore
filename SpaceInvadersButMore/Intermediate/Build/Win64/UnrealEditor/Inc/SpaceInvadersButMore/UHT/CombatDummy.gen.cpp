@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "CombatDummy.h"
+#include "SpaceInvadersButMore/Variant_Combat/CombatDummy.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
