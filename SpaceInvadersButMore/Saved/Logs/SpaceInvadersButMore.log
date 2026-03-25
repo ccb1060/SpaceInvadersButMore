@@ -11065,3 +11065,22 @@ Script call stack:
 [2026.03.25-14.34.17:348][779]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.25-14.34.17:348][779]AssetCheck: /Game/_Main/Blueprints/Enemies/BP_EnemySpawner Validating asset
 [2026.03.25-14.34.18:427][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.03.25-14.34.36:345][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.03.25-14.34.37:411][440]LogSlate: Window 'Save Content' being destroyed
+[2026.03.25-14.34.37:420][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.25-14.34.37:481][440]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Chaos/GC_goomba] ([1] browsable assets)...
+[2026.03.25-14.34.37:481][440]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chaos/GC_goomba]
+[2026.03.25-14.34.37:481][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chaos/GC_goomba" FILE="../../../../../../Users/caspa/source/repos/SpaceInvadersButMore/SpaceInvadersButMore/Content/Chaos/GC_goomba.uasset" SILENT=true
+[2026.03.25-14.34.37:494][440]LogSavePackage: Moving output files for package: /Game/Chaos/GC_goomba
+[2026.03.25-14.34.37:494][440]LogSavePackage: Moving '../../../../../../Users/caspa/source/repos/SpaceInvadersButMore/SpaceInvadersButMore/Saved/GC_goombaCF98A6E344441338DCE16DA7496BA2DB.tmp' to '../../../../../../Users/caspa/source/repos/SpaceInvadersButMore/SpaceInvadersButMore/Content/Chaos/GC_goomba.uasset'
+[2026.03.25-14.34.37:507][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.237 ms (total: 13.4 sec)
+[2026.03.25-14.34.37:564][440]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.25-14.34.37:564][440]LogContentValidation: Enabled validators:
+[2026.03.25-14.34.37:564][440]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.25-14.34.37:564][440]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.25-14.34.37:564][440]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.25-14.34.37:564][440]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.25-14.34.37:564][440]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.25-14.34.37:564][440]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.25-14.34.37:564][440]AssetCheck: /Game/Chaos/GC_goomba Validating asset
+[2026.03.25-14.34.37:586][440]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/caspa/source/repos/SpaceInvadersButMore/SpaceInvadersButMore/Saved/SourceControl/UncontrolledChangelists.json
